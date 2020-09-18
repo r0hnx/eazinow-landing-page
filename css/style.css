@@ -11386,9 +11386,10 @@ a.btn.btn_error {
     width: 100px;
 }
 
-.ui_kit_tooltip .btn:hover {
-    color:
-}
+
+/* .ui_kit_tooltip .btn:hover {
+    color: ;
+} */
 
 .ui_kit_tooltip .btn:focus {
     box-shadow: none;
@@ -13453,7 +13454,8 @@ legend span {
 }
 
 .header_user_notif .user_notif .simplebar-offset::-webkit-scrollbar-thumb {
-    background-color: #dfdfdf !important; // manage scrollbar thumb background color here
+    background-color: #dfdfdf !important;
+    /* manage scrollbar thumb background color here */
     border-radius: 6px;
 }
 
@@ -14741,7 +14743,7 @@ legend span {
 }
 
 .sidebar-menu::-webkit-scrollbar-thumb {
-    background-color: #1d293e !important; // manage scrollbar thumb background color here
+    background-color: #1d293e !important;
     border-radius: 6px;
 }
 
@@ -14971,7 +14973,7 @@ legend span {
 }
 
 .cl_skill_checkbox .content.ui_kit_checkbox::-webkit-scrollbar-thumb {
-    background-color: #a2a2a2 !important; // manage scrollbar thumb background color here
+    background-color: #a2a2a2 !important;
     border-radius: 6px;
 }
 
